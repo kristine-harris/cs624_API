@@ -1,41 +1,29 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
+  "storeName" : "React Native Textbooks for Sale",
   "products" : [
     {
       "name" : "React Native in Action",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+      "author" : "Nader Dabit",
+      "publishDate" : "March 2019",
+      "publisher" : "Manning",
+      "price" : 39.99,
+      "imgURL" : "https://images.manning.com/360/480/resize/book/2/8a23d37-c21c-491a-a5a9-498b6b54fe6d/Dabit-React-HI.png"
     },
     {
-      "name" : "Example textbook 2",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
+      "name" : "Learning React Native: Building Native Mobile Apps with JavaScript",
+      "author" : "Bonnie Eisenman",
+      "publishDate" : "January 2016",
+      "publisher" : O'Reilly Media,
+      "price" : 49.99,
+      "imgURL" : "https://m.media-amazon.com/images/P/1491929006.01._SCLZZZZZZZ_SX500_.jpg"
     },
     {
-      "name" : "Example textbook 3",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+      "name" : "JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron",
+      "author" : "Adam Scott",
+      "publishDate" : "March 2020",
+      "publisher" : "O'Reilly Media",
+      "price" : 29.99,
+      "imgURL" : "https://m.media-amazon.com/images/P/1492046981.01._SCLZZZZZZZ_SX500_.jpg"
     }
   ]
 }
