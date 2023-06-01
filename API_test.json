@@ -13,7 +13,7 @@
       "name" : "Learning React Native: Building Native Mobile Apps with JavaScript",
       "author" : "Bonnie Eisenman",
       "publishDate" : "January 2016",
-      "publisher" : O'Reilly Media,
+      "publisher" : "O Reilly Media",
       "price" : 49.99,
       "imgURL" : "https://m.media-amazon.com/images/P/1491929006.01._SCLZZZZZZZ_SX500_.jpg"
     },
@@ -21,7 +21,7 @@
       "name" : "JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron",
       "author" : "Adam Scott",
       "publishDate" : "March 2020",
-      "publisher" : "O'Reilly Media",
+      "publisher" : "O Reilly Media",
       "price" : 29.99,
       "imgURL" : "https://m.media-amazon.com/images/P/1492046981.01._SCLZZZZZZZ_SX500_.jpg"
     }
