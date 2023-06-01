@@ -2,7 +2,7 @@
   "storeName" : "React Native Textbooks for Sale",
   "products" : [
     {
-      "name" : "React Native in Action",
+      "name" : "React Native in Action: Developing iOS and Android apps with JavaScript",
       "author" : "Nader Dabit",
       "publishDate" : "March 2019",
       "publisher" : "Manning",
@@ -24,6 +24,30 @@
       "publisher" : "O Reilly Media",
       "price" : 29.99,
       "imgURL" : "https://m.media-amazon.com/images/P/1492046981.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+      "name" : "Fullstack React Native: Create Beautiful Mobile Apps with Javascript and React Native",
+      "author" : "Devin Abbott",
+      "publishDate" : "January 2019",
+      "publisher" : "Fullstack.io",
+      "price" : 29.99,
+      "imgURL" : "https://m.media-amazon.com/images/P/1728995558.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+      "name" : "Learning React: Modern Patterns for Developing React Apps",
+      "author" : "Alex Banks & Eve Porcello",
+      "publishDate" : "July 2020",
+      "publisher" : "O Reilly Media",
+      "price" : 29.99,
+      "imgURL" : "https://m.media-amazon.com/images/P/1492051721.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+      "name" : "React in Action",
+      "author" : "Mark Tielens Thomas",
+      "publishDate" : "May 2018",
+      "publisher" : "Manning",
+      "price" : 29.99,
+      "imgURL" : "https://images.manning.com/360/480/resize/book/4/dbe54e5-e0a2-43f0-a122-7d3ce329535c/Thomas-React-HI.png"
     }
   ]
 }
