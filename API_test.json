@@ -4,9 +4,9 @@
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
-  "members" : [
+  "products" : [
     {
-      "name" : "Molecule Man",
+      "name" : "React Native in Action",
       "age" : 29,
       "secretIdentity" : "Dan Jukes",
       "powers" : [
