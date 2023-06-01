@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
+      "name" : "Example textbook 2",
       "age" : 39,
       "secretIdentity" : "Jane Wilson",
       "powers" : [
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name" : "Eternal Flame",
+      "name" : "Example textbook 3",
       "age" : 1000000,
       "secretIdentity" : "Unknown",
       "powers" : [
