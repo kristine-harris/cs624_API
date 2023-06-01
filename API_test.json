@@ -7,7 +7,7 @@
       "publishDate" : "March 2019",
       "publisher" : "Manning",
       "price" : 39.99,
-      "imgURL" : "https://images.manning.com/360/480/resize/book/2/8a23d37-c21c-491a-a5a9-498b6b54fe6d/Dabit-React-HI.png"
+      "imgURL" : "require(\"https://images.manning.com/360/480/resize/book/2/8a23d37-c21c-491a-a5a9-498b6b54fe6d/Dabit-React-HI.png\")"
     },
     {
       "name" : "Learning React Native: Building Native Mobile Apps with JavaScript",
